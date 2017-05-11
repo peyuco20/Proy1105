@@ -1,5 +1,5 @@
 <?php
-include '.../lib/conexion.php';
+include '../lib/conexion.php';
 
 
 $conn=new Conexion;
